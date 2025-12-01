@@ -1,0 +1,6 @@
+[scenario]
+name = "simple-mark"
+description = "Deploy contract, call markCheckpoint, query getCheckpointsFor"
+
+[actions]
+; Define actions with deploy/call/view steps using your scenario runner

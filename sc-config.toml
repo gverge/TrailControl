@@ -1,0 +1,11 @@
+[project]
+name = "trailControl"
+package = "trail_control"
+description = "Trail control sample contract"
+
+[build]
+release = true
+wasm_target = "wasm32-unknown-unknown"
+
+[artifacts]
+wasm = "wasm/target/wasm32-unknown-unknown/release/trail_control_wasm.wasm"

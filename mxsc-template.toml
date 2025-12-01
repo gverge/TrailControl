@@ -1,0 +1,8 @@
+[project]
+name = "trailControl"
+version = "0.1.0"
+
+[contract]
+name = "trail_control"
+multiversx_json = "multiversx.json"
+wasm = "wasm/target/wasm32-unknown-unknown/release/trail_control_wasm.wasm"

@@ -2,3 +2,4 @@
 **/target/**
 **/output/**
 **/trace*.scen.json
+*.pem

@@ -2,4 +2,15 @@
 **/target/**
 **/output/**
 **/trace*.scen.json
+
+# Secrets / keys (no s'han de pujar)
+*.pem
+*.key
+*.p12
+*.der
+*.keystore
+.env
+.env.*
+**/.env
+**/.env.*
 *.pem

@@ -1,3 +1,4 @@
+![TrailControl](./TrailControl.jpg)
 
 # TrailControl - Smart Contract MultiversX
 
